@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "bio-greengenes_database"
   gem.homepage = "http://github.com/wwood/bioruby-greengenes_database"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A local SQLite format for GreenGenes data}
+  gem.description = %Q{A local SQLite format for GreenGenes data.}
   gem.email = "donttrustben near gmail.com"
   gem.authors = ["Ben J. Woodcroft"]
   # dependencies defined in Gemfile
